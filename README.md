@@ -1,4 +1,4 @@
 # Wazzup-PI
-![Screenshot](wazzup.png)
+![Screenshot](image.png)
 Academic project at ESPRIT
 
